@@ -21,7 +21,7 @@ instagram : adimas_shadoet
 */
 const Telegraf = require('telegraf')
 
-const bot = new Telegraf('1675749539:AAH46KNMRschhJDMuI5dclpp9FnB0znEaK4')
+const bot = new Telegraf('5840290666:AAGN_Z9kl3bTwSOGTU1SLNrnocMDPOLLBvg')
 const axios = require('axios')
 
 /*********[ Apikey ]*********/
